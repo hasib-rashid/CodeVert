@@ -5,9 +5,7 @@ import { MessageEmbed } from 'discord.js'
 const YoutubeCommand: Command = {
     name: 'youtube',
     description: 'Watch Youtube in Discord',
-    aliases: [
-        ''
-    ],
+    aliases: [],
     guildOnly: false,
     ownerOnly: false,
     disabled: false,
